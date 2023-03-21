@@ -1,0 +1,6 @@
+.rompelinks {
+    pointer-events: none;
+    cursor: default;
+    background-color: #1e498e;
+    height: 5px;
+}
